@@ -1,7 +1,7 @@
-****************************************************************
-*			Atril inteligente		       *
-*		Entrenamiento de las redes neuronales	       *
-****************************************************************	
+*************************************************************************************************************************
+*							Atril inteligente		       				*
+*		                             Entrenamiento de las redes neuronales	                                *                              
+*************************************************************************************************************************	
 
 Esta carpeta contiene los archivos necesarios para poder llevar a cabo entrenamientos con redes neuronales
 
