@@ -1,0 +1,13 @@
+
+Arq: DNN
+Fecha: 18-2_5-38
+Tipo de entrenamiento: completo
+Dataset completo
+Capas Internas: (500, 250, 100)
+Tam Batch: 8192
+Epochs predefinidos: 500
+******Datos finales******
+Mejor F1: 0.6943768496240138
+Error Total: 0.42602868529699545
+Num Epochs: 154
+Tiempo Procesamiento: 75.399462834994

@@ -1,0 +1,12 @@
+
+Fecha: 28-9_15-20
+Tipo de entrenamiento: completo
+Dataset completo
+Capas Internas: (2000, 1000, 500)
+Tam Batch: 16384
+Epochs predefinidos: 1500
+******Datos finales******
+Mejor F1: 0.7076146332294738
+Error Total: 0.4173409209132672
+Num Epochs: 203
+Tiempo Procesamiento: 183.8103839556376

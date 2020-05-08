@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="832f180d-29e9-4bc2-a4c1-aa63cdbc90b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UnTBOTXJx6xMlKrkenOWn50i6D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.Server">
+    <configuration name="Alineamiento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtrilTFG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alineamiento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtrilTFG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pruebaAlineacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtrilTFG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pruebaAlineacion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Server" />
+        <item itemvalue="Python.Alineamiento" />
+        <item itemvalue="Python.Server" />
+        <item itemvalue="Python.Server" />
+        <item itemvalue="Python.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="832f180d-29e9-4bc2-a4c1-aa63cdbc90b6" name="Default Changelist" comment="" />
+      <created>1575991222819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575991222819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-920" y="174" key="#Plugins" timestamp="1587652057640">
+      <screen x="-1024" y="148" width="1024" height="728" />
+    </state>
+    <state x="-920" y="174" key="#Plugins/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1587652057640" />
+    <state x="-775" y="297" width="632" height="579" key="#xdebugger.evaluate" timestamp="1588186443452">
+      <screen x="-1024" y="148" width="1024" height="728" />
+    </state>
+    <state x="558" y="100" key="#xdebugger.evaluate/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588175199286" />
+    <state x="-775" y="297" width="632" height="579" key="#xdebugger.evaluate/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588186443452" />
+    <state x="-750" y="394" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588174374781">
+      <screen x="-1024" y="148" width="1024" height="728" />
+    </state>
+    <state x="-750" y="394" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588174374781" />
+    <state x="-932" y="241" width="840" height="544" key="DiffContextDialog" timestamp="1583511826095">
+      <screen x="-1024" y="149" width="1024" height="728" />
+    </state>
+    <state x="-932" y="241" width="840" height="544" key="DiffContextDialog/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583511826095" />
+    <state x="-687" y="254" key="FileChooserDialogImpl" timestamp="1587841173760">
+      <screen x="-1024" y="148" width="1024" height="728" />
+    </state>
+    <state x="-687" y="254" key="FileChooserDialogImpl/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1587841173760" />
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1587652423076" />
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1580903959788" />
+    <state width="756" height="430" key="GridCell.Tab.0.bottom" timestamp="1588187072039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.0.bottom/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186234448" />
+    <state width="756" height="430" key="GridCell.Tab.0.bottom/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072039" />
+    <state width="1003" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589588" />
+    <state width="1248" height="44" key="GridCell.Tab.0.bottom/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state width="756" height="430" key="GridCell.Tab.0.center" timestamp="1588187072039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.0.center/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186234448" />
+    <state width="756" height="430" key="GridCell.Tab.0.center/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072039" />
+    <state width="1003" height="2" key="GridCell.Tab.0.center/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589588" />
+    <state width="1248" height="44" key="GridCell.Tab.0.center/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state width="756" height="430" key="GridCell.Tab.0.left" timestamp="1588187072039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.0.left/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186234448" />
+    <state width="756" height="430" key="GridCell.Tab.0.left/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072039" />
+    <state width="1003" height="2" key="GridCell.Tab.0.left/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589572" />
+    <state width="1248" height="44" key="GridCell.Tab.0.left/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state width="756" height="430" key="GridCell.Tab.0.right" timestamp="1588187072039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.0.right/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186234448" />
+    <state width="756" height="430" key="GridCell.Tab.0.right/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072039" />
+    <state width="1003" height="2" key="GridCell.Tab.0.right/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589588" />
+    <state width="1248" height="44" key="GridCell.Tab.0.right/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state width="756" height="430" key="GridCell.Tab.1.bottom" timestamp="1588187072040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.1.bottom/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186278766" />
+    <state width="756" height="430" key="GridCell.Tab.1.bottom/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072040" />
+    <state width="1003" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589588" />
+    <state width="1248" height="44" key="GridCell.Tab.1.bottom/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state width="756" height="430" key="GridCell.Tab.1.center" timestamp="1588187072040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.1.center/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186278766" />
+    <state width="756" height="430" key="GridCell.Tab.1.center/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072040" />
+    <state width="1003" height="2" key="GridCell.Tab.1.center/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589588" />
+    <state width="1248" height="44" key="GridCell.Tab.1.center/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state width="756" height="430" key="GridCell.Tab.1.left" timestamp="1588187072039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.1.left/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186278766" />
+    <state width="756" height="430" key="GridCell.Tab.1.left/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072039" />
+    <state width="1003" height="2" key="GridCell.Tab.1.left/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589588" />
+    <state width="1248" height="44" key="GridCell.Tab.1.left/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state width="756" height="430" key="GridCell.Tab.1.right" timestamp="1588187072040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="763" height="461" key="GridCell.Tab.1.right/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588186278766" />
+    <state width="756" height="430" key="GridCell.Tab.1.right/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588187072040" />
+    <state width="1003" height="2" key="GridCell.Tab.1.right/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583341589588" />
+    <state width="1248" height="44" key="GridCell.Tab.1.right/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1582129375302" />
+    <state width="1273" height="2" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588014709824" />
+    <state x="69" y="0" key="SettingsEditor" timestamp="1587653364287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="69" y="0" key="SettingsEditor/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1587652383109" />
+    <state x="69" y="0" key="SettingsEditor/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1587653364287" />
+    <state x="-746" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1588772318925">
+      <screen x="-1024" y="148" width="1024" height="728" />
+    </state>
+    <state x="-746" y="329" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588772318925" />
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1024.148.1024.728@0.0.1280.680" timestamp="1588442114093" />
+    <state x="-746" y="330" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1024.149.1024.728@-1024.149.1024.728" timestamp="1583755572052" />
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1024.149.1024.728@0.0.1280.680" timestamp="1583318584008" />
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581877343609" />
+    <state x="407" y="-19" width="801" height="426" maximized="true" key="dock-window-1" timestamp="1588010058719">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="407" y="-19" width="801" height="426" maximized="true" key="dock-window-1/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1588010058719" />
+    <state x="-849" y="197" width="672" height="678" key="search.everywhere.popup" timestamp="1587649857746">
+      <screen x="-1024" y="148" width="1024" height="728" />
+    </state>
+    <state x="-849" y="197" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1024.148.1024.728@-1024.148.1024.728" timestamp="1587649857746" />
+  </component>
+</project>

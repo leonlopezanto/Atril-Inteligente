@@ -1,0 +1,13 @@
+
+Arq: convolucional
+Fecha: 15-3_0-12
+Tipo de entrenamiento: completo
+Dataset completo
+Capas Internas: (1000, 200)
+Tam Batch: 256
+Epochs predefinidos: 500
+******Datos finales******
+Mejor F1: 0.6640142010942135
+Error Total: 0.4815712478820132
+Num Epochs: 37
+Tiempo Procesamiento: 496.34516479174295

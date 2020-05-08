@@ -1,0 +1,15 @@
+
+Arq: convolucional
+Fecha: 12-3_0-24
+Tipo de entrenamiento: pruebas
+Dataset completo
+Capas Internas: (1000, 200)
+Tam Batch: 256
+Epochs predefinidos: 500
+Arq: convolucional
+Fecha: 12-3_0-24
+Tipo de entrenamiento: completo
+Dataset completo
+Capas Internas: (1000, 200)
+Tam Batch: 256
+Epochs predefinidos: 500

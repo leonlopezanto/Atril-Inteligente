@@ -1,0 +1,329 @@
+
+***** UPDATE 0:24:31 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 4.440892098500625e-16
+Mejor error Total: 1.0
+Mejor perdida train: [0.4388312463249479]
+Mejor perdida val: [0.0755216762639572]
+
+***** UPDATE 1:53:27 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.1895962788350117
+Mejor error Total: 0.9175047132663532
+Mejor perdida train: [0.11082843474473394]
+Mejor perdida val: [0.12110550233949877]
+
+***** UPDATE 2:9:46 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.25354958279753376
+Mejor error Total: 0.8679607665322292
+Mejor perdida train: [0.0884302209859099]
+Mejor perdida val: [0.12069670164380046]
+
+***** UPDATE 2:26:6 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.3131705185518613
+Mejor error Total: 0.8244249815049042
+Mejor perdida train: [0.08231734951655047]
+Mejor perdida val: [0.11976514287024789]
+
+***** UPDATE 2:42:29 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.35214457121099796
+Mejor error Total: 0.7939593823831229
+Mejor perdida train: [0.07853626902238577]
+Mejor perdida val: [0.11392720143745547]
+
+***** UPDATE 2:58:27 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.38457880499900526
+Mejor error Total: 0.7665885497458416
+Mejor perdida train: [0.07522605788100814]
+Mejor perdida val: [0.11366405240669633]
+
+***** UPDATE 3:14:35 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.40420605063597953
+Mejor error Total: 0.7523785886452043
+Mejor perdida train: [0.07244240828667228]
+Mejor perdida val: [0.11245833290391374]
+
+***** UPDATE 3:30:31 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.4234443178129539
+Mejor error Total: 0.7367806600959359
+Mejor perdida train: [0.07016158433997575]
+Mejor perdida val: [0.10954016218970494]
+
+***** UPDATE 3:46:31 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.44771243445520903
+Mejor error Total: 0.7177089945827267
+Mejor perdida train: [0.06814426335911646]
+Mejor perdida val: [0.10336695403301459]
+
+***** UPDATE 4:2:27 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.4551213314297242
+Mejor error Total: 0.7070815932033506
+Mejor perdida train: [0.06620802649458353]
+Mejor perdida val: [0.10556204663491067]
+
+***** UPDATE 4:18:20 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.4800025676233239
+Mejor error Total: 0.6882867575113953
+Mejor perdida train: [0.06475877177549536]
+Mejor perdida val: [0.10888775921881505]
+
+***** UPDATE 4:34:17 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.48204810699223166
+Mejor error Total: 0.6830556284752881
+Mejor perdida train: [0.06336681837774145]
+Mejor perdida val: [0.10926659781557962]
+
+***** UPDATE 4:50:9 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.49206304619924623
+Mejor error Total: 0.6752528458582918
+Mejor perdida train: [0.06208655950155457]
+Mejor perdida val: [0.10681762655977019]
+
+***** UPDATE 5:6:4 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.4976136199412427
+Mejor error Total: 0.6672257356275207
+Mejor perdida train: [0.061084076942481615]
+Mejor perdida val: [0.1086260469570081]
+
+***** UPDATE 5:21:56 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5077965349138449
+Mejor error Total: 0.6590000715939193
+Mejor perdida train: [0.05991348912333401]
+Mejor perdida val: [0.11249525682964706]
+
+***** UPDATE 5:37:46 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5170809644827571
+Mejor error Total: 0.6489836049924826
+Mejor perdida train: [0.058738720452664456]
+Mejor perdida val: [0.11027862886554109]
+
+***** UPDATE 5:53:38 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5269772237072348
+Mejor error Total: 0.6385538028303462
+Mejor perdida train: [0.05786488759923229]
+Mejor perdida val: [0.1126678278534733]
+
+***** UPDATE 6:25:36 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5281436337123152
+Mejor error Total: 0.6370713314082523
+Mejor perdida train: [0.05616798021613941]
+Mejor perdida val: [0.11381580217407779]
+
+***** UPDATE 6:41:26 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5384795634414151
+Mejor error Total: 0.6289344438345703
+Mejor perdida train: [0.05542557916475313]
+Mejor perdida val: [0.11466485697008029]
+
+***** UPDATE 6:57:24 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5421867770378705
+Mejor error Total: 0.624232155215617
+Mejor perdida train: [0.05445189908297251]
+Mejor perdida val: [0.11209244293918828]
+
+***** UPDATE 7:13:20 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5479030677560046
+Mejor error Total: 0.6178144762904804
+Mejor perdida train: [0.05340172648027987]
+Mejor perdida val: [0.11122112790114756]
+
+***** UPDATE 7:29:14 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5596826419397823
+Mejor error Total: 0.6063584946185238
+Mejor perdida train: [0.052560346319954834]
+Mejor perdida val: [0.1105506629625994]
+
+***** UPDATE 8:1:1 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.563211927902486
+Mejor error Total: 0.6013497840250102
+Mejor perdida train: [0.05078340896365871]
+Mejor perdida val: [0.1105673704123806]
+
+***** UPDATE 8:17:4 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5711444823592765
+Mejor error Total: 0.5943354891057919
+Mejor perdida train: [0.05002048999763347]
+Mejor perdida val: [0.1146864982614064]
+
+***** UPDATE 8:48:44 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.574074643137099
+Mejor error Total: 0.590882753024843
+Mejor perdida train: [0.04871035582852593]
+Mejor perdida val: [0.11647397978367878]
+
+***** UPDATE 9:4:36 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5760373256314489
+Mejor error Total: 0.5875913419086939
+Mejor perdida train: [0.04783808395694735]
+Mejor perdida val: [0.11790118750719314]
+
+***** UPDATE 9:20:32 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.577916623703985
+Mejor error Total: 0.584214018089397
+Mejor perdida train: [0.04711035665552283]
+Mejor perdida val: [0.11460241779450876]
+
+***** UPDATE 9:36:19 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5800392354239816
+Mejor error Total: 0.5803469918621579
+Mejor perdida train: [0.046555494479063576]
+Mejor perdida val: [0.11295888130452557]
+
+***** UPDATE 10:8:6 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5867191297796568
+Mejor error Total: 0.5760599479750853
+Mejor perdida train: [0.04519354501067946]
+Mejor perdida val: [0.1169834528870784]
+
+***** UPDATE 10:23:58 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.595160562603482
+Mejor error Total: 0.5648836598811541
+Mejor perdida train: [0.04429551115405848]
+Mejor perdida val: [0.11310038297315436]
+
+***** UPDATE 10:39:57 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5974358640480263
+Mejor error Total: 0.5625487435267165
+Mejor perdida train: [0.04358693994064514]
+Mejor perdida val: [0.11595515167501716]
+
+***** UPDATE 10:56:1 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.5977911495651235
+Mejor error Total: 0.5613956041333557
+Mejor perdida train: [0.042800344050167444]
+Mejor perdida val: [0.11606644177056391]
+
+***** UPDATE 11:28:18 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6001293737194412
+Mejor error Total: 0.5571744266520297
+Mejor perdida train: [0.04128486694291026]
+Mejor perdida val: [0.11563274114074579]
+
+***** UPDATE 11:44:26 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6071561967859157
+Mejor error Total: 0.5517323342004152
+Mejor perdida train: [0.04057872785132666]
+Mejor perdida val: [0.11760373104296426]
+
+***** UPDATE 12:16:48 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6116209330618562
+Mejor error Total: 0.5463093334606114
+Mejor perdida train: [0.03931182944778385]
+Mejor perdida val: [0.1161744624688314]
+
+***** UPDATE 12:32:54 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6131326806645184
+Mejor error Total: 0.5450091878863088
+Mejor perdida train: [0.038914678939259595]
+Mejor perdida val: [0.1139714184508436]
+
+***** UPDATE 13:22:35 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.619243609850298
+Mejor error Total: 0.5370527169892371
+Mejor perdida train: [0.03719269032673921]
+Mejor perdida val: [0.1153017843114046]
+
+***** UPDATE 13:55:47 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6223494282329408
+Mejor error Total: 0.5340954108297735
+Mejor perdida train: [0.03626559354799741]
+Mejor perdida val: [0.11718518712479425]
+
+***** UPDATE 14:11:51 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6239683507159468
+Mejor error Total: 0.5313958427797533
+Mejor perdida train: [0.03597915348663782]
+Mejor perdida val: [0.11530065147771104]
+
+***** UPDATE 14:28:3 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6277103245810169
+Mejor error Total: 0.5277483712383362
+Mejor perdida train: [0.03560555149512696]
+Mejor perdida val: [0.11589471359276297]
+
+***** UPDATE 16:6:18 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6316916434232144
+Mejor error Total: 0.5214070591604419
+Mejor perdida train: [0.033512684226658325]
+Mejor perdida val: [0.1160395053076024]
+
+***** UPDATE 16:23:18 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6326365776682026
+Mejor error Total: 0.5210137698971434
+Mejor perdida train: [0.033146043848520663]
+Mejor perdida val: [0.1147467862856751]
+
+***** UPDATE 16:39:56 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6336836445928259
+Mejor error Total: 0.5201861441901534
+Mejor perdida train: [0.032954704470714]
+Mejor perdida val: [0.1149129381084759]
+
+***** UPDATE 17:12:33 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6348777799428734
+Mejor error Total: 0.5196697133856765
+Mejor perdida train: [0.03243289976524866]
+Mejor perdida val: [0.11456364733866865]
+
+***** UPDATE 17:46:6 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6350997350276499
+Mejor error Total: 0.5188182230389232
+Mejor perdida train: [0.03196061501188672]
+Mejor perdida val: [0.11619076431275825]
+
+***** UPDATE 19:9:15 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6361489201048013
+Mejor error Total: 0.5182111066033458
+Mejor perdida train: [0.03093111147787611]
+Mejor perdida val: [0.1148091023961424]
+
+***** UPDATE 19:25:48 *****
+Fecha: 12-3_0-24
+Mejor Score F1: 0.6365668530037305
+Mejor error Total: 0.5154208529222252
+Mejor perdida train: [0.03076484725121356]
+Mejor perdida val: [0.11876048768907144]

@@ -1,0 +1,9 @@
+****Test**** 
+Con metodo evaluate:
+Loss: 0.1010775431912495
+Accuraccy: 0.9797096859064819
+
+Metodo manual: 
+Numero aciertos: 174014/331808(52.444184588677786%)
+F1 Frame: 0.6226682439201424
+Error Total: 0.5199087661158799
